@@ -1,2 +1,2 @@
 # AILabs-Lab05
-Bayes vs Arboles Decisión
+Este laboratorio compara los algoritmos de Naive Bayes vs Arboles Decisión
